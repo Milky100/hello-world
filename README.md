@@ -1,3 +1,3 @@
 # hello-world
 
-I am Sungkyun, I learn.
+I am Sungkyun, I am in grade 12.
